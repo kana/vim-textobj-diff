@@ -1,6 +1,6 @@
 *textobj-diff.txt*	Text objects for ouputs of diff(1)
 
-Version 0.0.0
+Version 0.0.1
 Script ID: 2415
 Copyright (C) 2008 kana <http://whileimautomaton.net/>
 License: MIT license  {{{
@@ -130,6 +130,10 @@ BUGS						*textobj-diff-bugs*
 
 ==============================================================================
 CHANGELOG					*textobj-diff-changelog*
+
+0.0.1	2012-03-24T14:36:14+09:00		*textobj-diff-changelog-0.0.1*
+	- Refine the document a bit.
+	- Refine the internal structure a bit.
 
 0.0.0	2008-10-23T14:19:46+09:00		*textobj-diff-changelog-0.0.0*
 	- Initial version.
