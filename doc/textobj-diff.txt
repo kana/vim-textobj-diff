@@ -1,6 +1,6 @@
 *textobj-diff.txt*	Text objects for ouputs of diff(1)
 
-Version 0.0.1
+Version 0.0.2
 Script ID: 2415
 Copyright (C) 2008-2013 Kana Natsuno <http://whileimautomaton.net/>
 License: So-called MIT/X license  {{{
