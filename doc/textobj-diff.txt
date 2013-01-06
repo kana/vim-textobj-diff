@@ -134,6 +134,10 @@ BUGS						*textobj-diff-bugs*
 ==============================================================================
 CHANGELOG					*textobj-diff-changelog*
 
+0.0.2	2013-01-06T15:15:27+09:00		*textobj-diff-changelog-0.0.2*
+	- Support vim-flavor <https://github.com/kana/vim-flavor>.
+	- Update |textobj-diff-introduction|.
+
 0.0.1	2012-03-24T14:36:14+09:00		*textobj-diff-changelog-0.0.1*
 	- Refine the document a bit.
 	- Refine the internal structure a bit.
